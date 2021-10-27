@@ -1,9 +1,30 @@
 {
-    "list": [
-        {
-            "title":"Test Title",
-            "text":"Test text"
-        }
-    ]
-    
+  "notes": [
+    {
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "title": "First Post",
+      "text": "We Made it"
+    },
+    {
+      "title": "Hello",
+      "text": "Reminder, You just FINISHED!!!!"
+    },
+    {
+      "title": "Api works?",
+      "text": "Will this show?"
+    },
+    {
+      "title": "This should work",
+      "text": "Please please please",
+      "id": "4"
+    },
+    {
+      "title": "Finished",
+      "text": "Finished for the night",
+      "id": "5"
+    }
+  ]
 }
